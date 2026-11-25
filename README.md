@@ -1,6 +1,6 @@
 # Horloge Pomodoro
 Principalement pensée pour les étudiants et les personnes ayant un TDAH (Trouble du déficit d’attention avec hyperactivité), cette horloge Pomodoro est conçue pour encourager la productivité et les distractions par les écrans et les réseaux sociaux.
-![Wiring diagram](image.png)
+![Wiring diagram](img/diagram.png)
 *Diagrame réalisé avec Cirkit Design*
 #### Qu'est-ce que la technique Pomodoro?
 La technique Pomodoro est une méthode de gestion de temps qui cycle entre des périodes de travail et de pause. Traditionnellement, un Pomodoro est composé de 25 minutes de travail concentré suivi d'une courte pause. Lorsque la pause est terminée, une nouvelle période de travail commence. Cependant, la durée de chaque période peut être personnalisée selon les besoins de l’utilisateur.
