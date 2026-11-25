@@ -18,3 +18,6 @@ lcd = LCD(rs=RS_PIN,
           d7=D7_PIN,
           contrast_pin=CONTRAST_PIN)
 
+# Configuration du buzzer
+BUZZER_PIN = Pin.board.D13
+buzzer = PWM(BUZZER_PIN, freq=440, duty_u16=0)
